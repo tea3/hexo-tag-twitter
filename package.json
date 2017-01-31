@@ -1,0 +1,35 @@
+{
+  "name": "hexo-tag-twitter",
+  "version": "1.0.0",
+  "main": "index",
+  "dependencies": {},
+  "description": "Embed twitter tweet tag plugin for Hexo.",
+  "devDependencies": {},
+  "directories": {},
+  "author": {
+    "email": "tea3gtinfo@gmail.com",
+    "name": "tea3",
+    "url": "https://tea3.github.io/"
+  },
+  "bugs": {
+    "url": "https://github.com/tea3/hexo-tag-twitter/issues"
+  },
+  "keywords": [
+    "hexo",
+    "tag",
+    "twitter",
+    "embed",
+    "blog"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "tea3gt",
+      "email": "tea3gtinfo@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tea3/hexo-tag-twitter.git"
+  }
+}
