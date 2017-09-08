@@ -1,6 +1,6 @@
 {
   "name": "hexo-tag-twitter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index",
   "dependencies": {},
   "description": "Embed twitter tweet tag plugin for Hexo.",
@@ -9,7 +9,7 @@
   "author": {
     "email": "tea3gtinfo@gmail.com",
     "name": "tea3",
-    "url": "https://tea3.github.io/"
+    "url": "https://photo-tea.com/"
   },
   "bugs": {
     "url": "https://github.com/tea3/hexo-tag-twitter/issues"

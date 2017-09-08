@@ -8,7 +8,7 @@ This is a Hexo tag plugin which allows you to embed Twitter tweet on your blog p
 
 ## DEMO
 
-[https://tea3.github.io/p/hexo-tag-twitter/](https://tea3.github.io/p/hexo-tag-twitter/)
+[https://photo-tea.com/p/hexo-tag-twitter/](https://photo-tea.com/p/hexo-tag-twitter/)
 
 ## Installation
 
