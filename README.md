@@ -36,6 +36,12 @@ tagTwitter:
   id: tea0828
 ```
 
+## FAQ
+
+Please read here if you can not display tweet well.
+
+[hexo-tag-twitter/issues/](https://github.com/tea3/hexo-tag-twitter/issues?utf8=%E2%9C%93&q=is%3Aissue+)
+
 ## Example
 
 For example, if you want embed [this tweet](https://twitter.com/tea0828/status/819885806714138624) (This tweet tweet-id is *819885806714138624*), please enter the following this.
