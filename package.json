@@ -1,6 +1,6 @@
 {
   "name": "hexo-tag-twitter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index",
   "dependencies": {},
   "description": "Embed twitter tweet tag plugin for Hexo.",
