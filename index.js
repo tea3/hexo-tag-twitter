@@ -20,7 +20,7 @@ hexo.extend.tag.register('twitter', function(args, content){
   	}
 
   	if(postId != "" && userId != ""){
-  		returnHTML = '<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/'+ userId +'/status/' + postId + '"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>';
+  		returnHTML = '<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/'+ userId +'/status/' + postId + '"></a></blockquote></div><script async defer src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>';
   	}
   	return returnHTML;
 },{
