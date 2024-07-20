@@ -6,10 +6,11 @@ hexo.extend.tag.register('twitter', function(args, content){
 	var postId     = "";
 	var userId     = "";
 	var returnHTML = "";
+	var regexp = /https:\/\/(?:twitter|x)\.com\/([a-zA-Z0-9_]+)\/status\/([0-9]+)/;
 
-  	if(args[0] && args[0].match(/https\:\/\/twitter\.com\/[a-zA-Z0-9_]+\/status\/[0-9]+/)){
+  	if(args[0] && args[0].match(regexp)){
 
-	  	var matchURL = args[0].match(/https\:\/\/twitter\.com\/([a-zA-Z0-9_]+)\/status\/([0-9]+)/);
+	  	var matchURL = args[0].match(regexp);
 	  	postId = matchURL[2];
 	  	userId = matchURL[1];
 
